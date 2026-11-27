@@ -18,8 +18,8 @@ React · TypeScript · Vite · Capacitor (Android)
 
 Requires Node 22 or newer (run `node -v` to check).
 
-    git clone https://github.com/robertandersonux/cuemap.git
-    cd cuemap
+    git clone https://github.com/robertandersonux/cue-map.git
+    cd cue-map
     npm install
     npm run dev
 
