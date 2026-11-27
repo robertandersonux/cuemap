@@ -18,4 +18,4 @@ npm run cap:open     # opens the project in Android Studio, then press Run
 
 Opt in to **Play App Signing** when Play Console offers it. Google then holds the final signing key and yours becomes an upload key, which can be reset if lost.
 
-App ID: `com.builtnotborn.cuemap` (permanent once published).
+App ID: `com.robertandersonux.cuemap` (permanent once published).

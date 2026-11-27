@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.builtnotborn.cuemap',
+  appId: 'com.robertandersonux.cuemap',
   appName: 'CueMap',
   webDir: 'dist'
 };
