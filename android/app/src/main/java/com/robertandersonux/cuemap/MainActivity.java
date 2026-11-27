@@ -1,4 +1,4 @@
-package com.builtnotborn.cuemap;
+package com.robertandersonux.cuemap;
 
 import com.getcapacitor.BridgeActivity;
 
