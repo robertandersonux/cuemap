@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CueMap</string>
+    <string name="title_activity_main">CueMap</string>
+    <string name="package_name">com.robertandersonux.cuemap</string>
+    <string name="custom_url_scheme">com.robertandersonux.cuemap</string>
+</resources>
